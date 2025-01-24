@@ -1,0 +1,7 @@
+Mouze controls:
+Movement - Arrows
+Sneak - . (period)
+Squeek - / (slash)
+Kat controls:
+Movement - WSAD
+Trap - Q 
